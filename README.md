@@ -8,8 +8,8 @@
 
 
 [Python](https://www.python.org/downloads/) v3.8 +  для запуска 
-[Docker](https://www.docker.com/).
-Установите зависимости.
+[Docker](https://www.docker.com/)
+
 ```sh
 $ sudo apt update
 $ sudo apt install apt-transport-https ca-certificates curl gnupg-agent software-properties-common -y
